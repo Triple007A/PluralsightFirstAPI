@@ -1,0 +1,16 @@
+F:\C#\My apps\FirstAPI\FirstAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\C#\My apps\FirstAPI\FirstAPI\bin\Debug\netcoreapp2.2\appsettings.json
+F:\C#\My apps\FirstAPI\FirstAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\C#\My apps\FirstAPI\FirstAPI\bin\Debug\netcoreapp2.2\FirstAPI.deps.json
+F:\C#\My apps\FirstAPI\FirstAPI\bin\Debug\netcoreapp2.2\FirstAPI.runtimeconfig.json
+F:\C#\My apps\FirstAPI\FirstAPI\bin\Debug\netcoreapp2.2\FirstAPI.runtimeconfig.dev.json
+F:\C#\My apps\FirstAPI\FirstAPI\bin\Debug\netcoreapp2.2\FirstAPI.dll
+F:\C#\My apps\FirstAPI\FirstAPI\bin\Debug\netcoreapp2.2\FirstAPI.pdb
+F:\C#\My apps\FirstAPI\FirstAPI\obj\Debug\netcoreapp2.2\FirstAPI.csprojAssemblyReference.cache
+F:\C#\My apps\FirstAPI\FirstAPI\obj\Debug\netcoreapp2.2\FirstAPI.RazorAssemblyInfo.cache
+F:\C#\My apps\FirstAPI\FirstAPI\obj\Debug\netcoreapp2.2\FirstAPI.RazorAssemblyInfo.cs
+F:\C#\My apps\FirstAPI\FirstAPI\obj\Debug\netcoreapp2.2\FirstAPI.AssemblyInfoInputs.cache
+F:\C#\My apps\FirstAPI\FirstAPI\obj\Debug\netcoreapp2.2\FirstAPI.AssemblyInfo.cs
+F:\C#\My apps\FirstAPI\FirstAPI\obj\Debug\netcoreapp2.2\FirstAPI.RazorTargetAssemblyInfo.cache
+F:\C#\My apps\FirstAPI\FirstAPI\obj\Debug\netcoreapp2.2\FirstAPI.dll
+F:\C#\My apps\FirstAPI\FirstAPI\obj\Debug\netcoreapp2.2\FirstAPI.pdb
